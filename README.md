@@ -1,6 +1,6 @@
 # travalapp
 
-A new Flutter project.
+This is a home page user interface development using flutter faremwork 
 
 ## Getting Started
 
